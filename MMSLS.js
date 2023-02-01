@@ -18,7 +18,7 @@ const MMSLS = [
 =====================请在下面编辑=====================
 =====================请在下面编辑=====================
  */
-const MMSLS = [
+const MMSLS = [https://www.maimemo.com/share/amway/wechat?bind_user=0&create_user=0&uid=2798993&sid=
     
     "",
     "",
